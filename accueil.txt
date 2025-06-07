@@ -5,3 +5,5 @@ Le cours de githu est très intéressant et je suis en train de l'apprendre
 
 Cela m'aide beaucoup pour mon travail et je suis en train de l'utiliser pour mon projet 
 personnel
+
+Bienvenu au cours de git et github , je suis ravi de vous voir ici.
